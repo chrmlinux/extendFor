@@ -1,0 +1,7 @@
+extendFor 	KEYWORD1	extendFor
+ef 			KEYWORD1 	extendFor
+begin		KEYWORD2
+end			KEYWORD2
+update	KEYWORD2
+set			KEYWORD2
+exf			KEYWORD2
